@@ -46,7 +46,7 @@ videos en el documento HTML. (1 Punto)
 instancias creadas. (1 Punto)
 
 ## Demo del sitio web
-Puede ver una demo del sitio web en el siguiente enlace: ()
+Puede ver una demo del sitio web en el siguiente enlace: (https://www.loom.com/share/c484029f8bc34993bd8614e4258b844c)
 
 ¡Gracias por visitar nuestro sitio!
 
